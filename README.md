@@ -185,7 +185,7 @@ Modelos baseline foram criados inicialmente sem tratamento especial dos dados:
 
 - **Avaliação do Modelo Ajustado:**
   Foram calculadas as métricas para o modelo ajustado e gerada uma tabela detalhada com taxas de eventos e volumes por decil para os conjuntos de treino e teste. Também foram gerados gráficos para comparar a taxa de eventos por decil entre os conjuntos de treino e teste.
-![Métricas - Gradient Boosting](Imagens/M%C3%A9tricas%20-%20Gradient%20Boosting.png)
+![Métricas do Gradient Boosting](Imagens/Métricas%20-%20Gradient%20Boostig.png)
 
 ### 3. Resultados
 
