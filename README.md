@@ -133,6 +133,7 @@ Modelos baseline foram criados inicialmente sem tratamento especial dos dados:
 - **Processo:**
   - **Filtragem por P-Valor:** Variáveis com p-valores menores ou iguais a 0,05 foram selecionadas.
   - **Limitação de Variáveis:** O número de variáveis selecionadas foi limitado para a construção final do modelo.
+![Scorecard - Regressão Logistica](Imagens/Scorecard%20-%20Regress%C3%A3o%20Logistica.png)
 
 ### 4. Pontuação do Modelo
 
@@ -153,6 +154,7 @@ Modelos baseline foram criados inicialmente sem tratamento especial dos dados:
   - **Tabela por Decil:** O score foi dividido em 10 faixas (decis) e foi gerada uma tabela com a taxa de eventos e volume por decil.
   - **Visualização:** Um gráfico de barras foi plotado para comparar a taxa de eventos por decil entre os conjuntos de treino e teste.
 
+![Resultados - Regressão Logistica](Imagens/Resultados%20-%20Regress%C3%A3o%20Logistica.png)
 
 ## Modelo Desafiante
 
@@ -183,6 +185,7 @@ Modelos baseline foram criados inicialmente sem tratamento especial dos dados:
 
 - **Avaliação do Modelo Ajustado:**
   Foram calculadas as métricas para o modelo ajustado e gerada uma tabela detalhada com taxas de eventos e volumes por decil para os conjuntos de treino e teste. Também foram gerados gráficos para comparar a taxa de eventos por decil entre os conjuntos de treino e teste.
+![Métricas - Gradient Boosting](Imagens/M%C3%A9tricas%20-%20Gradient%20Boosting.png)
 
 ### 3. Resultados
 
@@ -191,7 +194,7 @@ Modelos baseline foram criados inicialmente sem tratamento especial dos dados:
 
 - **Visualização dos Resultados:**
   Gráficos de barras foram plotados para comparar a taxa de eventos por decil entre os conjuntos de treino e teste.
-
+![Resultados - Gradient Boosting](Imagens/Resultados%20-%20Gradient%20Boosting.png)
 
 ## Resultados
 
